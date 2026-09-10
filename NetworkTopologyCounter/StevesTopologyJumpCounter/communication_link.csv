@@ -1,0 +1,13 @@
+ComputerA SwitchA Ethernet
+ComputerB SwitchA Ethernet
+ComputerC SwitchB Ethernet
+ComputerD SwitchB Ethernet
+ComputerE HubA Ethernet
+ComputerF HubA Ethernet
+SwitchA RouterA Ethernet
+SwitchB RouterB Ethernet
+HubA RouterC Ethernet
+RouterA RouterB Internet
+RouterB RouterC Internet
+RouterC RouterA Internet
+ComputerG Printer USB_Cable
